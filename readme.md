@@ -35,7 +35,7 @@ A API permite:
 
 ---
 
-## 🔓 Endpoints
+## 🔓 Exemplos de Endpoints - Usuarios
 
 | Método | Endpoint                      | Descrição                       |
 |--------|-------------------------------|----------------------------------|
