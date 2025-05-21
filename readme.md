@@ -68,13 +68,13 @@ http://localhost:8080/swagger-ui/index.html
 
 - Java 17+
 - Maven
-- Banco de dados PostgreSQL (ou compatível)
+- Banco de dados OracleDb (ou compatível)
 
 ### Rodando localmente
 
 ```bash
 # Clone o repositório
-git clone https://github.com/klebers022/motix.git
+git clone https://github.com/klebers022/motix-java-1entrega.git
 cd motix
 cd java
 
